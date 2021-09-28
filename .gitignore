@@ -1,0 +1,7 @@
+.DS_store
+dist/
+coverage/
+.env
+.vscode
+*/bin/
+*/obj/
